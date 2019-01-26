@@ -1,0 +1,6 @@
+#Do commit the zip of the zza-mongo-database
+!zza-mongo-database.zip
+
+#Do commit the breeze files;
+!breeze*.js
+!breeze*.css
